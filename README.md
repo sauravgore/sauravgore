@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Saurav Gore having keen interest in Data Strucures and Algorithms and System design.
+
 <!--
 **sauravgore/sauravgore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
